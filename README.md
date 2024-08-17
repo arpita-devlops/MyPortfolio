@@ -1,6 +1,6 @@
 Personal Portfolio
 This project is a personal portfolio website that showcases my achievements, academic qualifications, and professional experience. It's designed to provide a comprehensive overview of my skills and background, making it easy for potential employers and collaborators to get to know me.
-
+![Image Alt](https://github.com/arpita-devlops/MyPortfolio/blob/main/Portfolio_photo.png?raw=true)
 Features
 About Me: A brief introduction and background information.
 Achievements: Highlights of my key accomplishments and recognitions.
